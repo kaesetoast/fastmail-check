@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "fastmail check",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Simple Mailchecker for fastmail.fm",
+    "description": "The description of the application"
+  }
+}
